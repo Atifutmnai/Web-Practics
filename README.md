@@ -1,2 +1,2 @@
 # Web-Practics
-its include small projects
+Its include a Small projects
